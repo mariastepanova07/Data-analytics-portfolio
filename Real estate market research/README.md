@@ -14,7 +14,7 @@
 
 Интерактивный дашборд доступен по ссылке:
 
-[Открыть дашборд в Yandex DataLens]((https://datalens.ru/qc0dut8n0ul4a))
+[Открыть дашборд в Yandex DataLens](https://datalens.ru/qc0dut8n0ul4a)
 
 ## Что было проанализировано
 
